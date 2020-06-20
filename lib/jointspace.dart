@@ -1,0 +1,51 @@
+class Jointspace {
+  
+  static final String inputStandby = 'Standby';
+  static final String inputBack = 'Back';
+  static final String inputFind = 'Find';
+  static final String inputRedColour = 'RedColour';
+  static final String inputGreenColour = 'GreenColour';
+  static final String inputYellowColour = 'YellowColour';
+  static final String inputBlueColour = 'BlueColour';
+  static final String inputHome = 'Home';
+  static final String inputVolumeUp = 'VolumeUp';
+  static final String inputVolumeDown = 'VolumeDown';
+  static final String inputMute = 'Mute';
+  static final String inputOptions = 'Options';
+  static final String inputDot = 'Dot';
+  static final String inputDigit0 = '';
+  static final String inputDigit1 = '';
+  static final String inputDigit2 = '';
+  static final String inputDigit3 = '';
+  static final String inputDigit4 = '';
+  static final String inputDigit5 = '';
+  static final String inputDigit6 = '';
+  static final String inputDigit7 = '';
+  static final String inputDigit8 = '';
+  static final String inputDigit9 = '';
+  static final String inputInfo = 'Info';
+  static final String inputCursorUp = 'CursorUp';
+  static final String inputCursorDown = 'CursorDown';
+  static final String inputCursorLeft = 'CursorLeft';
+  static final String inputCursorRight = 'CursorRight';
+  static final String inputConfirm = 'Confirm';
+  static final String inputNext = 'Next';
+  static final String inputPrevious = 'Previous';
+  static final String inputAdjust = 'Adjust';
+  static final String inputWatchTV = 'WatchTV';
+  static final String inputViewmode = '';
+  static final String inputTeletext = '';
+  static final String inputSubtitle = '';
+  static final String inputChannelStepUp = 'ChannelStepUp';
+  static final String inputChannelStepDown = 'ChannelStepDown';
+  static final String inputSource = 'Source';
+  static final String inputAmbilightOnOff = '';
+  static final String inputPlayPause = '';
+  static final String inputPause = '';
+  static final String inputFastForward = '';
+  static final String inputStop = '';
+  static final String inputRewind = '';
+  static final String inputRecord = '';
+  static final String inputOnline = 'Online';
+
+}
